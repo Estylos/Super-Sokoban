@@ -1,0 +1,8 @@
+# Ignorer le dossier vscode (config local du projet)
+.vscode
+
+# Ignorer le dossier build
+build/*
+
+# Ignorer les executables
+bin/*
